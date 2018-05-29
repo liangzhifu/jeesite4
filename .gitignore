@@ -9,7 +9,6 @@
 
 .idea
 *.ipr
-*.iml
 *.iws
 *.lic
 

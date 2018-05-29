@@ -1,7 +1,7 @@
 server:
 
   port: 8980
-  context-path: /js
+  context-path: /jeesite4
   tomcat:
     uri-encoding: UTF-8
 
